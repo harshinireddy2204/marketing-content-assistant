@@ -9,7 +9,7 @@ Voiceprint is an open source tool for marketers and founders. Paste a few sample
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Gemini](https://img.shields.io/badge/Gemini-2.0_Flash-4285F4?logo=google&logoColor=white)](https://ai.google.dev)
 
-**[Live demo](https://YOUR_APP_NAME.streamlit.app)**
+**[Live demo](https://marketing-content-assistant.streamlit.app/)**
 
 ---
 
