@@ -260,8 +260,8 @@ with st.sidebar:
         "and scores every output."
     )
     st.markdown(
-        "[GitHub](https://github.com/YOUR_USERNAME/voiceprint)  ·  "
-        "[LinkedIn](https://linkedin.com/in/YOUR_HANDLE)"
+        "[GitHub](https://github.com/harshinireddy2204/marketing-content-assistant)  ·  "
+        "[LinkedIn](https://www.linkedin.com/in/harshini-reddy22/)"
     )
 
 
